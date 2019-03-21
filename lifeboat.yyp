@@ -135,6 +135,14 @@
             }
         },
         {
+            "Key": "398cd859-1b6b-4ca1-b9e8-be18ca05ecdf",
+            "Value": {
+                "id": "d8ce021b-f496-47c2-a0a7-775cc53a48da",
+                "resourcePath": "objects\\obj_island\\obj_island.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "3bc2b29f-d302-46df-918e-0109a22b5e80",
             "Value": {
                 "id": "0ba6bd85-f41f-47ee-896f-a15117e1e0a1",
@@ -162,7 +170,7 @@
             "Key": "532c053e-e971-4a5b-9965-0a99ee1fed6e",
             "Value": {
                 "id": "643f32a8-df22-44dc-8b71-2943a284a753",
-                "resourcePath": "sprites\\spr_man_falling3\\spr_man_falling3.yy",
+                "resourcePath": "sprites\\spr_island\\spr_island.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -276,6 +284,14 @@
                 "id": "4fc73124-2e31-468b-a2f7-e40a9885f992",
                 "resourcePath": "sprites\\spr_lifesaver_left\\spr_lifesaver_left.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "b37e912f-79d2-4dea-adab-f0bb6d480b73",
+            "Value": {
+                "id": "47a5efea-112c-4110-8fdc-d8761c80f48e",
+                "resourcePath": "objects\\obj_controle\\obj_controle.yy",
+                "resourceType": "GMObject"
             }
         },
         {

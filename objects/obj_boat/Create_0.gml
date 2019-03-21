@@ -1,0 +1,9 @@
+hsp = 0;
+move_space = 25;
+grv = 0.1;
+begin_x = 201;
+//choice = controle.game;
+//sprite.index = choice;
+//position = [3, 6];
+//position[0] = 3;
+//position[1] = 6;
