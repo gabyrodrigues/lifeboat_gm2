@@ -127,14 +127,6 @@
             }
         },
         {
-            "Key": "33aadf6a-17fc-4e4b-b4f9-bb77acc8298a",
-            "Value": {
-                "id": "274af742-a58a-480a-8826-3dd95df364a5",
-                "resourcePath": "sprites\\spr_boat2\\spr_boat2.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "398cd859-1b6b-4ca1-b9e8-be18ca05ecdf",
             "Value": {
                 "id": "d8ce021b-f496-47c2-a0a7-775cc53a48da",
@@ -258,7 +250,7 @@
             "Key": "964c01b8-1056-468d-9cae-29e3501a42c3",
             "Value": {
                 "id": "4f2a906e-155f-4fb1-9014-cb95e11519b5",
-                "resourcePath": "rooms\\room0\\room0.yy",
+                "resourcePath": "rooms\\rm_game\\rm_game.yy",
                 "resourceType": "GMRoom"
             }
         },
