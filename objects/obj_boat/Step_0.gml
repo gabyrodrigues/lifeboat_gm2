@@ -4,7 +4,8 @@ key_right = keyboard_check_pressed(vk_right);
 
 //cálculo dos movimentos para se mover
 
-if (key_right && atual < pos_max[game]){
+if (key_right && atual < pos_max[global.game]){
+//if (key_right && atual < 5){
 	atual += 1;
 }
 
@@ -14,7 +15,8 @@ if (key_left && atual > 0){
 
 x = pos_X[atual];
 
-sprite_index = 
+
+//if (key_right && atual < pos_max[game]){
 
 //var move = key_right - key_left;
 
